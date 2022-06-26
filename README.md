@@ -9,7 +9,7 @@
 
         pip install -r telegram_bot/requirements.txt
 
-Или 
+Или использование виртуального окружения
 
         source telegram_bot/telegram_bot_venv/bin/activate
 
